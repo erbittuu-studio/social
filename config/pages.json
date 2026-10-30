@@ -1,0 +1,18 @@
+[
+  {
+    "key": "kids",
+    "name": "Erbittuu Kids: Draw, Color, Learn",
+    "id": "110277047834692",
+    "tokenEnv": "FB_PAGES_TOKEN",
+    "url": "https://www.facebook.com/erbittuukids",
+    "folder": "kids"
+  },
+  {
+    "key": "prarthana",
+    "name": "Prarthana: Daily Hindu Prayers",
+    "id": "102606804642636",
+    "tokenEnv": "FB_PAGES_TOKEN",
+    "url": "https://www.facebook.com/prarthanaapp",
+    "folder": "prarthana"
+  }
+]

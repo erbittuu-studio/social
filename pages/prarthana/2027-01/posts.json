@@ -1,0 +1,621 @@
+[
+  {
+    "id": "prarthana-2027-01-01-1597899453-am",
+    "at": "2027-01-01T01:00:00Z",
+    "app": "1597899453",
+    "lang": "en",
+    "event": null,
+    "text": "Share a prayer that means something to you, and tell us why.",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2027-01-01-1597899453-pm",
+    "at": "2027-01-01T13:30:00Z",
+    "app": "1597899453",
+    "lang": "en",
+    "event": null,
+    "image": "images/screens/1597899453/festival-calendar-02.jpg",
+    "text": "Fasting days at a glance: Ekadashi, Purnima, Amavasya and monthly vrat days.",
+    "ppid": "8ad5a98a-aa91-4136-8be0-38866bbe6f66",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2027-01-02-1597899453-am",
+    "at": "2027-01-02T01:00:00Z",
+    "app": "1597899453",
+    "lang": "hi",
+    "event": null,
+    "text": "अगला त्योहार कब है? नेक्स्ट फ़ेस्टिवल विजेट होम स्क्रीन पर दिन गिनकर बताता है।",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2027-01-02-1597899453-pm",
+    "at": "2027-01-02T13:30:00Z",
+    "app": "1597899453",
+    "lang": "hi",
+    "event": null,
+    "image": "images/screens/1597899453/store-hi-08.jpg",
+    "text": "अपना जाप Apple Watch पर भी गिनते रहें।",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2027-01-03-1597899453-am",
+    "at": "2027-01-03T01:00:00Z",
+    "app": "1597899453",
+    "lang": "gu",
+    "event": null,
+    "text": "સવારનું વાંચન: પહેલાં હનુમાન ચાલીસા, પછી આરતી. બંને પ્રાર્થનામાં છે.",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2027-01-03-1597899453-pm",
+    "at": "2027-01-03T13:30:00Z",
+    "app": "1597899453",
+    "lang": "gu",
+    "event": null,
+    "image": "images/screens/1597899453/gujarati-prayers-02.jpg",
+    "text": "હનુમાન ભક્તો માટે 30થી વધુ પાઠ, એક જ જગ્યાએ.",
+    "ppid": "1cf67593-479d-412b-9ab4-4ab35ea48dc9",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2027-01-04-1597899453-am",
+    "at": "2027-01-04T01:00:00Z",
+    "app": "1597899453",
+    "lang": "en",
+    "event": null,
+    "text": "Take a slow breath before the day gets busy. Good morning.",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2027-01-04-1597899453-pm",
+    "at": "2027-01-04T13:30:00Z",
+    "app": "1597899453",
+    "lang": "en",
+    "event": null,
+    "image": "images/screens/1597899453/store-02.jpg",
+    "text": "Ekadashi, Purnima, Amavasya and the monthly vrat days, all in Prarthana's calendar.",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2027-01-05-1597899453-am",
+    "at": "2027-01-05T01:00:00Z",
+    "app": "1597899453",
+    "lang": "hi",
+    "event": null,
+    "text": "दीपक जलाइए, प्रार्थना खोलिए, एक गहरी साँस लीजिए। शुभ प्रभात।",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2027-01-05-1597899453-pm",
+    "at": "2027-01-05T13:30:00Z",
+    "app": "1597899453",
+    "lang": "hi",
+    "event": null,
+    "image": "images/screens/1597899453/hindi-prayers-02.jpg",
+    "text": "हनुमान भक्तों के लिए 30 से अधिक पाठ, एक ही जगह।",
+    "ppid": "be1c782d-7eb5-4194-b3d4-9ad535a54679",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2027-01-06-1597899453-am",
+    "at": "2027-01-06T01:00:00Z",
+    "app": "1597899453",
+    "lang": "en",
+    "event": null,
+    "text": "Prayers for Hanuman, Shiva, Durga, Krishna, Ganesh and Lakshmi. Which deity do you turn to first?",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2027-01-06-1597899453-pm",
+    "at": "2027-01-06T13:30:00Z",
+    "app": "1597899453",
+    "lang": "en",
+    "event": null,
+    "image": "images/screens/1597899453/hanuman-chalisa-03.jpg",
+    "text": "Never miss a festival: turn on a reminder and the app tells you in good time.",
+    "ppid": "d868422f-7a69-41e1-940a-03fade65fa39",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2027-01-07-1597899453-am",
+    "at": "2027-01-07T01:00:00Z",
+    "app": "1597899453",
+    "lang": "gu",
+    "event": null,
+    "text": "આગળનો તહેવાર ક્યારે છે? નેક્સ્ટ ફેસ્ટિવલ વિજેટ હોમ સ્ક્રીન પર દિવસો ગણીને બતાવે છે.",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2027-01-07-1597899453-pm",
+    "at": "2027-01-07T13:30:00Z",
+    "app": "1597899453",
+    "lang": "gu",
+    "event": null,
+    "image": "images/screens/1597899453/store-gu-02.jpg",
+    "text": "એકાદશી, પૂર્ણિમા, અમાવસ્યા અને માસિક વ્રતના દિવસો, બધું એક કેલેન્ડરમાં.",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2027-01-08-1597899453-am",
+    "at": "2027-01-08T01:00:00Z",
+    "app": "1597899453",
+    "lang": "en",
+    "event": null,
+    "text": "Start small. One aarti a day is a good habit.",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2027-01-08-1597899453-pm",
+    "at": "2027-01-08T13:30:00Z",
+    "app": "1597899453",
+    "lang": "en",
+    "event": null,
+    "image": "images/screens/1597899453/festival-calendar-03.jpg",
+    "text": "Tap a festival and read more. A reminder is one tap away.",
+    "ppid": "8ad5a98a-aa91-4136-8be0-38866bbe6f66",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2027-01-09-1597899453-am",
+    "at": "2027-01-09T01:00:00Z",
+    "app": "1597899453",
+    "lang": "hi",
+    "event": null,
+    "text": "एकादशी, पूर्णिमा और अमावस्या की तिथियाँ त्योहार कैलेंडर में हैं। क्या आप मासिक व्रत रखते हैं?",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2027-01-09-1597899453-pm",
+    "at": "2027-01-09T13:30:00Z",
+    "app": "1597899453",
+    "lang": "hi",
+    "event": null,
+    "image": "images/screens/1597899453/store-hi-02.jpg",
+    "text": "एकादशी, पूर्णिमा, अमावस्या और मासिक व्रत के दिन, सब एक कैलेंडर में।",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2027-01-10-1597899453-am",
+    "at": "2027-01-10T01:00:00Z",
+    "app": "1597899453",
+    "lang": "gu",
+    "event": null,
+    "text": "દીવો પ્રગટાવો, પ્રાર્થના ખોલો, એક ઊંડો શ્વાસ લો. શુભ સવાર.",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2027-01-10-1597899453-pm",
+    "at": "2027-01-10T13:30:00Z",
+    "app": "1597899453",
+    "lang": "gu",
+    "event": null,
+    "image": "images/screens/1597899453/gujarati-prayers-03.jpg",
+    "text": "કોઈ પણ તહેવારનું પેજ ખોલો, તેના વિશે વાંચો અને રિમાઇન્ડર મૂકો.",
+    "ppid": "1cf67593-479d-412b-9ab4-4ab35ea48dc9",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2027-01-11-1597899453-am",
+    "at": "2027-01-11T01:00:00Z",
+    "app": "1597899453",
+    "lang": "en",
+    "event": null,
+    "text": "Each day of the week suggests a deity in Prarthana, so you always know where to begin.",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2027-01-11-1597899453-pm",
+    "at": "2027-01-11T13:30:00Z",
+    "app": "1597899453",
+    "lang": "en",
+    "event": null,
+    "image": "images/screens/1597899453/store-03.jpg",
+    "text": "Count your jaap with a tap. Prarthana keeps your 108 beads and your day streak.",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2027-01-12-1597899453-am",
+    "at": "2027-01-12T01:00:00Z",
+    "app": "1597899453",
+    "lang": "hi",
+    "event": null,
+    "text": "गायत्री मंत्र, शिव चालीसा, दुर्गा सप्तशती और बहुत कुछ प्रार्थना में है। आपकी कौन सी है?",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2027-01-12-1597899453-pm",
+    "at": "2027-01-12T13:30:00Z",
+    "app": "1597899453",
+    "lang": "hi",
+    "event": null,
+    "image": "images/screens/1597899453/hindi-prayers-03.jpg",
+    "text": "किसी भी त्योहार का पेज खोलें, उसके बारे में पढ़ें और रिमाइंडर लगाएँ।",
+    "ppid": "be1c782d-7eb5-4194-b3d4-9ad535a54679",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2027-01-13-1597899453-am",
+    "at": "2027-01-13T01:00:00Z",
+    "app": "1597899453",
+    "lang": "en",
+    "event": null,
+    "text": "Hindi, English or Gujarati: you choose the language you read your prayers in.",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2027-01-13-1597899453-pm",
+    "at": "2027-01-13T13:30:00Z",
+    "app": "1597899453",
+    "lang": "en",
+    "event": "makar-sankranti",
+    "image": "images/greetings/makar-sankranti.jpg",
+    "text": "Makar Sankranti is on 15 January, also known as Pongal and Uttarayan. Read the Gayatri Mantra in Prarthana for the sunrise offering.",
+    "tags": [
+      "Prarthana",
+      "HanumanChalisa",
+      "MakarSankranti"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2027-01-14-1597899453-am",
+    "at": "2027-01-14T01:00:00Z",
+    "app": "1597899453",
+    "lang": "gu",
+    "event": null,
+    "text": "એકાદશી, પૂર્ણિમા અને અમાવસ્યાની તારીખો તહેવાર કેલેન્ડરમાં છે. શું તમે માસિક વ્રત રાખો છો?",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2027-01-14-1597899453-pm",
+    "at": "2027-01-14T13:30:00Z",
+    "app": "1597899453",
+    "lang": "gu",
+    "event": null,
+    "image": "images/screens/1597899453/store-gu-03.jpg",
+    "text": "તમારો જાપ ટૅપ કરીને ગણો. પ્રાર્થના તમારી માળા અને સતત દિવસોની ગણતરી સંભાળે છે.",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2027-01-15-1597899453-am",
+    "at": "2027-01-15T01:00:00Z",
+    "app": "1597899453",
+    "lang": "en",
+    "event": "makar-sankranti",
+    "text": "Happy Makar Sankranti. Read the Gayatri Mantra at sunrise in Prarthana.",
+    "tags": [
+      "Prarthana",
+      "HanumanChalisa",
+      "MakarSankranti"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2027-01-15-1597899453-pm",
+    "at": "2027-01-15T13:30:00Z",
+    "app": "1597899453",
+    "lang": "en",
+    "event": "makar-sankranti",
+    "image": "images/greetings/makar-sankranti.jpg",
+    "text": "Happy Makar Sankranti, Pongal and Uttarayan. The Gayatri Mantra is in Prarthana.",
+    "tags": [
+      "Prarthana",
+      "HanumanChalisa",
+      "MakarSankranti"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2027-01-16-1597899453-am",
+    "at": "2027-01-16T01:00:00Z",
+    "app": "1597899453",
+    "lang": "hi",
+    "event": null,
+    "text": "आपके लिए सबसे खास प्रार्थना कौन सी है? बताइए, क्यों?",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2027-01-16-1597899453-pm",
+    "at": "2027-01-16T13:30:00Z",
+    "app": "1597899453",
+    "lang": "hi",
+    "event": null,
+    "image": "images/screens/1597899453/store-hi-03.jpg",
+    "text": "अपना जाप टैप करके गिनें। प्रार्थना आपकी माला और लगातार दिनों की गिनती संभालती है।",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2027-01-17-1597899453-am",
+    "at": "2027-01-17T01:00:00Z",
+    "app": "1597899453",
+    "lang": "gu",
+    "event": null,
+    "text": "ગાયત્રી મંત્ર, શિવ ચાલીસા, દુર્ગા સપ્તશતી અને ઘણું બધું પ્રાર્થનામાં છે. તમારું કયું?",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2027-01-17-1597899453-pm",
+    "at": "2027-01-17T13:30:00Z",
+    "app": "1597899453",
+    "lang": "gu",
+    "event": null,
+    "image": "images/screens/1597899453/gujarati-prayers-04.jpg",
+    "text": "રોજની પ્રાર્થના માટે એક શાંત જગ્યા. કોઈ જાહેરાત નહીં, કોઈ સબસ્ક્રિપ્શન નહીં.",
+    "ppid": "1cf67593-479d-412b-9ab4-4ab35ea48dc9",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2027-01-18-1597899453-am",
+    "at": "2027-01-18T01:00:00Z",
+    "app": "1597899453",
+    "lang": "en",
+    "event": null,
+    "text": "Morning gratitude: name one thing you are thankful for today.",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2027-01-18-1597899453-pm",
+    "at": "2027-01-18T13:30:00Z",
+    "app": "1597899453",
+    "lang": "en",
+    "event": null,
+    "image": "images/screens/1597899453/hanuman-chalisa-04.jpg",
+    "text": "Works without internet once the app has loaded. No ads.",
+    "ppid": "d868422f-7a69-41e1-940a-03fade65fa39",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2027-01-19-1597899453-am",
+    "at": "2027-01-19T01:00:00Z",
+    "app": "1597899453",
+    "lang": "hi",
+    "event": null,
+    "text": "हनुमान, शिव, दुर्गा, कृष्ण, गणेश और लक्ष्मी: आप पहले किसे याद करते हैं?",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2027-01-19-1597899453-pm",
+    "at": "2027-01-19T13:30:00Z",
+    "app": "1597899453",
+    "lang": "hi",
+    "event": null,
+    "image": "images/screens/1597899453/hindi-prayers-04.jpg",
+    "text": "रोज़ की प्रार्थना के लिए एक शांत जगह। कोई विज्ञापन नहीं, कोई सदस्यता नहीं।",
+    "ppid": "be1c782d-7eb5-4194-b3d4-9ad535a54679",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2027-01-20-1597899453-am",
+    "at": "2027-01-20T01:00:00Z",
+    "app": "1597899453",
+    "lang": "en",
+    "event": null,
+    "text": "Chant while you cook, walk or travel. The recordings in Prarthana keep playing in the background.",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2027-01-20-1597899453-pm",
+    "at": "2027-01-20T13:30:00Z",
+    "app": "1597899453",
+    "lang": "en",
+    "event": null,
+    "image": "images/screens/1597899453/festival-calendar-04.jpg",
+    "text": "Read the prayer and check the festival date without leaving Prarthana.",
+    "ppid": "8ad5a98a-aa91-4136-8be0-38866bbe6f66",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2027-01-21-1597899453-am",
+    "at": "2027-01-21T01:00:00Z",
+    "app": "1597899453",
+    "lang": "gu",
+    "event": null,
+    "text": "તમારા માટે સૌથી ખાસ પ્રાર્થના કઈ છે? જણાવો, શા માટે?",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2027-01-21-1597899453-pm",
+    "at": "2027-01-21T13:30:00Z",
+    "app": "1597899453",
+    "lang": "gu",
+    "event": null,
+    "image": "images/screens/1597899453/store-gu-04.jpg",
+    "text": "હનુમાન ચાલીસાનો અર્થ, શ્લોક દર શ્લોક.",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2027-01-22-1597899453-am",
+    "at": "2027-01-22T01:00:00Z",
+    "app": "1597899453",
+    "lang": "en",
+    "event": null,
+    "text": "Good morning. Do you have a favorite verse from the Chalisa? Share it below.",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2027-01-22-1597899453-pm",
+    "at": "2027-01-22T13:30:00Z",
+    "app": "1597899453",
+    "lang": "en",
+    "event": null,
+    "image": "images/screens/1597899453/store-04.jpg",
+    "text": "Understand what you chant. Prarthana shows the meaning, verse by verse.",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2027-01-23-1597899453-am",
+    "at": "2027-01-23T01:00:00Z",
+    "app": "1597899453",
+    "lang": "hi",
+    "event": null,
+    "text": "छोटी शुरुआत करें। रोज़ एक आरती भी अच्छी आदत है।",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2027-01-23-1597899453-pm",
+    "at": "2027-01-23T13:30:00Z",
+    "app": "1597899453",
+    "lang": "hi",
+    "event": null,
+    "image": "images/screens/1597899453/store-hi-04.jpg",
+    "text": "हनुमान चालीसा का अर्थ, पद दर पद।",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2027-01-24-1597899453-am",
+    "at": "2027-01-24T01:00:00Z",
+    "app": "1597899453",
+    "lang": "gu",
+    "event": null,
+    "text": "હનુમાન, શિવ, દુર્ગા, કૃષ્ણ, ગણેશ અને લક્ષ્મી: તમે પહેલાં કોને યાદ કરો છો?",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2027-01-24-1597899453-pm",
+    "at": "2027-01-24T13:30:00Z",
+    "app": "1597899453",
+    "lang": "gu",
+    "event": null,
+    "image": "images/screens/1597899453/gujarati-prayers-01.jpg",
+    "text": "50 પવિત્ર પાઠ, ઘણાના દરેક શ્લોકનો અર્થ, અને હિન્દી, અંગ્રેજી તથા ગુજરાતીમાં વાંચવાની સુવિધા.",
+    "ppid": "1cf67593-479d-412b-9ab4-4ab35ea48dc9",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2027-01-25-1597899453-am",
+    "at": "2027-01-25T01:00:00Z",
+    "app": "1597899453",
+    "lang": "en",
+    "event": null,
+    "text": "Reminders tell you about a festival in good time, so there is no last-minute rush.",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2027-01-25-1597899453-pm",
+    "at": "2027-01-25T13:30:00Z",
+    "app": "1597899453",
+    "lang": "en",
+    "event": null,
+    "image": "images/screens/1597899453/hanuman-chalisa-01.jpg",
+    "text": "Reading the Chalisa and want to know what it says? Prarthana shows the meaning of each verse.",
+    "ppid": "d868422f-7a69-41e1-940a-03fade65fa39",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2027-01-26-1597899453-am",
+    "at": "2027-01-26T01:00:00Z",
+    "app": "1597899453",
+    "lang": "hi",
+    "event": null,
+    "text": "खाना बनाते, टहलते या सफ़र में सुनिए। प्रार्थना की रिकॉर्डिंग बैकग्राउंड में चलती रहती हैं।",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2027-01-26-1597899453-pm",
+    "at": "2027-01-26T13:30:00Z",
+    "app": "1597899453",
+    "lang": "hi",
+    "event": null,
+    "image": "images/screens/1597899453/hindi-prayers-01.jpg",
+    "text": "50 पवित्र पाठ, कई के हर पद का अर्थ, और हिंदी, अंग्रेज़ी व गुजराती में पढ़ने की सुविधा।",
+    "ppid": "be1c782d-7eb5-4194-b3d4-9ad535a54679",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2027-01-27-1597899453-am",
+    "at": "2027-01-27T01:00:00Z",
+    "app": "1597899453",
+    "lang": "en",
+    "event": null,
+    "text": "Prarthana works without internet once the app has loaded, so your morning prayer does not need a signal.",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2027-01-27-1597899453-pm",
+    "at": "2027-01-27T13:30:00Z",
+    "app": "1597899453",
+    "lang": "en",
+    "event": null,
+    "image": "images/screens/1597899453/festival-calendar-01.jpg",
+    "text": "Planning the year ahead? Prarthana lists festival dates for 2026 and 2027.",
+    "ppid": "8ad5a98a-aa91-4136-8be0-38866bbe6f66",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2027-01-28-1597899453-am",
+    "at": "2027-01-28T01:00:00Z",
+    "app": "1597899453",
+    "lang": "gu",
+    "event": null,
+    "text": "નાની શરૂઆત કરો. રોજ એક આરતી પણ સારી ટેવ છે.",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2027-01-28-1597899453-pm",
+    "at": "2027-01-28T13:30:00Z",
+    "app": "1597899453",
+    "lang": "gu",
+    "event": null,
+    "image": "images/screens/1597899453/store-gu-05.jpg",
+    "text": "એક સ્ક્રીન પર તમારો દિવસ: આજનો વિચાર, વાંચેલો પાઠ અને આગળનો તહેવાર.",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2027-01-29-1597899453-am",
+    "at": "2027-01-29T01:00:00Z",
+    "app": "1597899453",
+    "lang": "en",
+    "event": null,
+    "text": "Peace begins with a small routine. Good morning.",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2027-01-29-1597899453-pm",
+    "at": "2027-01-29T13:30:00Z",
+    "app": "1597899453",
+    "lang": "en",
+    "event": null,
+    "image": "images/screens/1597899453/store-05.jpg",
+    "text": "Your day in one screen: a thought, the text you were reading and the festival coming up.",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2027-01-30-1597899453-am",
+    "at": "2027-01-30T01:00:00Z",
+    "app": "1597899453",
+    "lang": "hi",
+    "event": null,
+    "text": "दिन के हिसाब से देवता का सुझाव प्रार्थना में मिलता है, ताकि शुरुआत कहाँ से करें यह सोचना न पड़े।",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2027-01-30-1597899453-pm",
+    "at": "2027-01-30T13:30:00Z",
+    "app": "1597899453",
+    "lang": "hi",
+    "event": null,
+    "image": "images/screens/1597899453/store-hi-05.jpg",
+    "text": "एक स्क्रीन पर आपका दिन: आज का विचार, पढ़ा हुआ पाठ और अगला त्योहार।",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2027-01-31-1597899453-am",
+    "at": "2027-01-31T01:00:00Z",
+    "app": "1597899453",
+    "lang": "gu",
+    "event": null,
+    "text": "રસોઈ કરતાં, ચાલતાં કે મુસાફરીમાં સાંભળો. પ્રાર્થનાનાં રેકોર્ડિંગ બેકગ્રાઉન્ડમાં ચાલતાં રહે છે.",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2027-01-31-1597899453-pm",
+    "at": "2027-01-31T13:30:00Z",
+    "app": "1597899453",
+    "lang": "gu",
+    "event": null,
+    "image": "images/screens/1597899453/store-gu-06.jpg",
+    "text": "તમે જે દેવને માનો, પ્રાર્થનામાં તેમના માટે આરતી, ચાલીસા અને મંત્ર છે.",
+    "status": "draft"
+  }
+]

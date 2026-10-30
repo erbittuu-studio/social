@@ -1,0 +1,665 @@
+[
+  {
+    "id": "prarthana-20261101-1597899453",
+    "at": "2026-11-01T03:30:00Z",
+    "app": "1597899453",
+    "lang": "en",
+    "event": null,
+    "image": "images/headers/1597899453.png",
+    "text": "Hanuman Chalisa in your pocket. Read it in Hindi, English or Gujarati, and make the letters as big as you like.",
+    "status": "scheduled",
+    "fbId": "1574553768026704"
+  },
+  {
+    "id": "prarthana-20261102-1597899453",
+    "at": "2026-11-02T03:30:00Z",
+    "app": "1597899453",
+    "lang": "en",
+    "event": null,
+    "image": "images/headers/1597899453.png",
+    "text": "Many texts in Prarthana come with their meaning, verse by verse, so you understand what you read.",
+    "status": "scheduled",
+    "fbId": "1574553861360028"
+  },
+  {
+    "id": "prarthana-2026-11-03-1597899453-am",
+    "at": "2026-11-03T01:00:00Z",
+    "app": "1597899453",
+    "lang": "hi",
+    "event": null,
+    "text": "शुभ प्रभात। आज दिन की शुरुआत किस प्रार्थना से करेंगे? कमेंट में बताइए।",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2026-11-03-1597899453-pm",
+    "at": "2026-11-03T13:30:00Z",
+    "app": "1597899453",
+    "lang": "en",
+    "event": "diwali",
+    "image": "images/screens/1597899453/diwali-2026-01.jpg",
+    "text": "Diwali is on 8 November. Prarthana has the puja dates, the Lakshmi Aarti and a reminder before the day.",
+    "ppid": "fbc4903b-165b-40e1-b3c8-b1e724e101a7",
+    "tags": [
+      "Prarthana",
+      "HanumanChalisa",
+      "Diwali"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2026-11-04-1597899453-am",
+    "at": "2026-11-04T01:00:00Z",
+    "app": "1597899453",
+    "lang": "en",
+    "event": null,
+    "text": "Good morning. Which prayer do you read first in the day? Tell us in the comments.",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2026-11-04-1597899453-pm",
+    "at": "2026-11-04T13:30:00Z",
+    "app": "1597899453",
+    "lang": "en",
+    "event": "diwali",
+    "image": "images/screens/1597899453/diwali-2026-02.jpg",
+    "text": "Aarti and prayers with meanings, in Hindi, English and Gujarati, ready for Diwali week.",
+    "ppid": "fbc4903b-165b-40e1-b3c8-b1e724e101a7",
+    "tags": [
+      "Prarthana",
+      "HanumanChalisa",
+      "Diwali"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2026-11-05-1597899453-am",
+    "at": "2026-11-05T01:00:00Z",
+    "app": "1597899453",
+    "lang": "gu",
+    "event": null,
+    "text": "શુભ સવાર. આજે દિવસની શરૂઆત કઈ પ્રાર્થનાથી કરશો? કોમેન્ટમાં જણાવો.",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2026-11-05-1597899453-pm",
+    "at": "2026-11-05T13:30:00Z",
+    "app": "1597899453",
+    "lang": "en",
+    "event": "diwali",
+    "image": "images/screens/1597899453/diwali-2026-03.jpg",
+    "text": "Every festival and vrat for 2026 and 2027, from Dhanteras on 6 November and Diwali on 8 November onward.",
+    "ppid": "fbc4903b-165b-40e1-b3c8-b1e724e101a7",
+    "tags": [
+      "Prarthana",
+      "HanumanChalisa",
+      "Diwali"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2026-11-06-1597899453-am",
+    "at": "2026-11-06T01:00:00Z",
+    "app": "1597899453",
+    "lang": "en",
+    "event": "diwali",
+    "text": "Happy Dhanteras. The Diwali days begin today, and Prarthana has the puja dates and the Lakshmi Aarti.",
+    "tags": [
+      "Prarthana",
+      "HanumanChalisa",
+      "Diwali"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2026-11-06-1597899453-pm",
+    "at": "2026-11-06T13:30:00Z",
+    "app": "1597899453",
+    "lang": "en",
+    "event": "diwali",
+    "image": "images/screens/1597899453/diwali-2026-04.jpg",
+    "text": "Happy Dhanteras. Prarthana has no ads, and it works without internet once the app has loaded.",
+    "ppid": "fbc4903b-165b-40e1-b3c8-b1e724e101a7",
+    "tags": [
+      "Prarthana",
+      "HanumanChalisa",
+      "Diwali"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2026-11-07-1597899453-am",
+    "at": "2026-11-07T01:00:00Z",
+    "app": "1597899453",
+    "lang": "hi",
+    "event": null,
+    "text": "दिन शुरू होने से पहले एक शांत मिनट। एक प्रार्थना खोलें, कुछ पंक्तियाँ पढ़ें और आगे बढ़ें।",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2026-11-07-1597899453-pm",
+    "at": "2026-11-07T13:30:00Z",
+    "app": "1597899453",
+    "lang": "en",
+    "event": "diwali",
+    "image": "images/screens/1597899453/diwali-2026-01.jpg",
+    "text": "Diwali is tomorrow, 8 November. Read the Lakshmi Aarti and set your reminder.",
+    "ppid": "fbc4903b-165b-40e1-b3c8-b1e724e101a7",
+    "tags": [
+      "Prarthana",
+      "HanumanChalisa",
+      "Diwali"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2026-11-08-1597899453-am",
+    "at": "2026-11-08T01:00:00Z",
+    "app": "1597899453",
+    "lang": "en",
+    "event": "diwali",
+    "text": "Happy Diwali. Light a lamp and read the Lakshmi Aarti in Prarthana.",
+    "tags": [
+      "Prarthana",
+      "HanumanChalisa",
+      "Diwali"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2026-11-08-1597899453-pm",
+    "at": "2026-11-08T13:30:00Z",
+    "app": "1597899453",
+    "lang": "en",
+    "event": "diwali",
+    "image": "images/greetings/diwali.jpg",
+    "text": "Happy Diwali from Prarthana. May the lamps bring light to your home. The Lakshmi Aarti is in the app.",
+    "tags": [
+      "Prarthana",
+      "HanumanChalisa",
+      "Diwali"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2026-11-09-1597899453-am",
+    "at": "2026-11-09T01:00:00Z",
+    "app": "1597899453",
+    "lang": "en",
+    "event": null,
+    "text": "A quiet minute before the day begins. Open a prayer, read a few lines, and carry on.",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2026-11-09-1597899453-pm",
+    "at": "2026-11-09T13:30:00Z",
+    "app": "1597899453",
+    "lang": "en",
+    "event": "diwali",
+    "image": "images/screens/1597899453/diwali-2026-02.jpg",
+    "text": "Diwali week is here. Read the prayers with their meanings in Prarthana.",
+    "ppid": "fbc4903b-165b-40e1-b3c8-b1e724e101a7",
+    "tags": [
+      "Prarthana",
+      "HanumanChalisa",
+      "Diwali"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2026-11-10-1597899453-am",
+    "at": "2026-11-10T01:00:00Z",
+    "app": "1597899453",
+    "lang": "hi",
+    "event": null,
+    "text": "प्रार्थना में मंत्रों की रिकॉर्डिंग बैकग्राउंड में चलती रहती हैं। लॉक स्क्रीन से रोकें या आगे बढ़ाएँ।",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2026-11-10-1597899453-pm",
+    "at": "2026-11-10T13:30:00Z",
+    "app": "1597899453",
+    "lang": "en",
+    "event": "diwali",
+    "image": "images/screens/1597899453/diwali-2026-03.jpg",
+    "text": "Diwali week goes on. Prarthana's calendar lists every festival and vrat for 2026 and 2027.",
+    "ppid": "fbc4903b-165b-40e1-b3c8-b1e724e101a7",
+    "tags": [
+      "Prarthana",
+      "HanumanChalisa",
+      "Diwali"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2026-11-11-1597899453-am",
+    "at": "2026-11-11T01:00:00Z",
+    "app": "1597899453",
+    "lang": "en",
+    "event": "diwali",
+    "text": "Wishing you a bright end to Diwali week. Light a lamp and read a prayer in Prarthana.",
+    "tags": [
+      "Prarthana",
+      "HanumanChalisa",
+      "Diwali"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2026-11-11-1597899453-pm",
+    "at": "2026-11-11T13:30:00Z",
+    "app": "1597899453",
+    "lang": "en",
+    "event": "diwali",
+    "image": "images/screens/1597899453/diwali-2026-04.jpg",
+    "text": "Diwali week winds down. Prarthana has calm prayers, no ads and a festival calendar for what comes next.",
+    "ppid": "fbc4903b-165b-40e1-b3c8-b1e724e101a7",
+    "tags": [
+      "Prarthana",
+      "HanumanChalisa",
+      "Diwali"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2026-11-12-1597899453-am",
+    "at": "2026-11-12T01:00:00Z",
+    "app": "1597899453",
+    "lang": "gu",
+    "event": null,
+    "text": "દિવસ શરૂ થાય તે પહેલાં એક શાંત મિનિટ. એક પ્રાર્થના ખોલો, થોડી પંક્તિઓ વાંચો અને આગળ વધો.",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2026-11-12-1597899453-pm",
+    "at": "2026-11-12T13:30:00Z",
+    "app": "1597899453",
+    "lang": "gu",
+    "event": null,
+    "image": "images/screens/1597899453/store-gu-01.jpg",
+    "text": "હનુમાન ચાલીસા અને આરતી એક જ જગ્યાએ, હિન્દી, અંગ્રેજી કે ગુજરાતીમાં વાંચો.",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2026-11-13-1597899453-am",
+    "at": "2026-11-13T01:00:00Z",
+    "app": "1597899453",
+    "lang": "en",
+    "event": null,
+    "text": "Chant recordings in Prarthana keep playing in the background, and you can pause or skip from the lock screen.",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2026-11-13-1597899453-pm",
+    "at": "2026-11-13T13:30:00Z",
+    "app": "1597899453",
+    "lang": "en",
+    "event": null,
+    "image": "images/screens/1597899453/store-01.jpg",
+    "text": "Hanuman Chalisa and Aarti in one place, to read in Hindi, English or Gujarati.",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2026-11-14-1597899453-am",
+    "at": "2026-11-14T01:00:00Z",
+    "app": "1597899453",
+    "lang": "hi",
+    "event": null,
+    "text": "अक्षर जितने बड़े चाहें उतने बड़े कीजिए। प्रार्थना में पढ़ना आँखों के लिए आसान है।",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2026-11-14-1597899453-pm",
+    "at": "2026-11-14T13:30:00Z",
+    "app": "1597899453",
+    "lang": "hi",
+    "event": null,
+    "image": "images/screens/1597899453/store-hi-01.jpg",
+    "text": "हनुमान चालीसा और आरती एक ही जगह, हिंदी, अंग्रेज़ी या गुजराती में पढ़ें।",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2026-11-15-1597899453-am",
+    "at": "2026-11-15T01:00:00Z",
+    "app": "1597899453",
+    "lang": "gu",
+    "event": null,
+    "text": "પ્રાર્થનામાં મંત્રોનાં રેકોર્ડિંગ બેકગ્રાઉન્ડમાં ચાલતાં રહે છે. લૉક સ્ક્રીનથી અટકાવો કે આગળ વધો.",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2026-11-15-1597899453-pm",
+    "at": "2026-11-15T13:30:00Z",
+    "app": "1597899453",
+    "lang": "gu",
+    "event": null,
+    "image": "images/screens/1597899453/gujarati-prayers-01.jpg",
+    "text": "હનુમાન ચાલીસા, આરતી અને 50 પવિત્ર પાઠ ગુજરાતીમાં વાંચો, ઑડિયો સાથે. કોઈ જાહેરાત નહીં.",
+    "ppid": "1cf67593-479d-412b-9ab4-4ab35ea48dc9",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2026-11-16-1597899453-am",
+    "at": "2026-11-16T01:00:00Z",
+    "app": "1597899453",
+    "lang": "en",
+    "event": null,
+    "text": "Make the letters as big as you like. Prarthana lets you resize the text, so reading is easy on the eyes.",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2026-11-16-1597899453-pm",
+    "at": "2026-11-16T13:30:00Z",
+    "app": "1597899453",
+    "lang": "en",
+    "event": null,
+    "image": "images/screens/1597899453/hanuman-chalisa-01.jpg",
+    "text": "Hanuman Chalisa with meanings, verse by verse. Read offline, with no ads.",
+    "ppid": "d868422f-7a69-41e1-940a-03fade65fa39",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2026-11-17-1597899453-am",
+    "at": "2026-11-17T01:00:00Z",
+    "app": "1597899453",
+    "lang": "hi",
+    "event": null,
+    "text": "सुबह हनुमान चालीसा से शुरू करें। प्रार्थना में हर पद का अर्थ भी मिलता है।",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2026-11-17-1597899453-pm",
+    "at": "2026-11-17T13:30:00Z",
+    "app": "1597899453",
+    "lang": "en",
+    "event": "tulasi-vivah",
+    "image": "images/screens/1597899453/tulasi-vivah-01.jpg",
+    "text": "Tulasi Vivah is on 21 November, the start of the wedding season. Read about the vivah puja in Prarthana.",
+    "ppid": "5f9dbde0-80cd-4235-b5a7-5da5749672b9",
+    "tags": [
+      "Prarthana",
+      "HanumanChalisa",
+      "TulasiVivah"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2026-11-18-1597899453-am",
+    "at": "2026-11-18T01:00:00Z",
+    "app": "1597899453",
+    "lang": "en",
+    "event": null,
+    "text": "Start the morning with the Hanuman Chalisa. Prarthana shows the meaning of each verse, too.",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2026-11-18-1597899453-pm",
+    "at": "2026-11-18T13:30:00Z",
+    "app": "1597899453",
+    "lang": "en",
+    "event": null,
+    "image": "images/screens/1597899453/festival-calendar-01.jpg",
+    "text": "Festival dates for 2026 and 2027, in Indian Standard Time.",
+    "ppid": "8ad5a98a-aa91-4136-8be0-38866bbe6f66",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2026-11-19-1597899453-am",
+    "at": "2026-11-19T01:00:00Z",
+    "app": "1597899453",
+    "lang": "gu",
+    "event": null,
+    "text": "અક્ષરો જેટલા મોટા જોઈએ તેટલા મોટા કરો. પ્રાર્થનામાં વાંચવું આંખો માટે સરળ છે.",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2026-11-19-1597899453-pm",
+    "at": "2026-11-19T13:30:00Z",
+    "app": "1597899453",
+    "lang": "en",
+    "event": "tulasi-vivah",
+    "image": "images/screens/1597899453/tulasi-vivah-02.jpg",
+    "text": "Set a reminder for Tulasi Vivah on 21 November, and Prarthana will tell you the day before.",
+    "ppid": "5f9dbde0-80cd-4235-b5a7-5da5749672b9",
+    "tags": [
+      "Prarthana",
+      "HanumanChalisa",
+      "TulasiVivah"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2026-11-20-1597899453-am",
+    "at": "2026-11-20T01:00:00Z",
+    "app": "1597899453",
+    "lang": "en",
+    "event": null,
+    "text": "Count a mala before breakfast: 108 beads, a gentle tap on every count.",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2026-11-20-1597899453-pm",
+    "at": "2026-11-20T13:30:00Z",
+    "app": "1597899453",
+    "lang": "en",
+    "event": "tulasi-vivah",
+    "image": "images/screens/1597899453/tulasi-vivah-03.jpg",
+    "text": "Tulasi Vivah is tomorrow. Read the vivah puja and the prayers with their meanings.",
+    "ppid": "5f9dbde0-80cd-4235-b5a7-5da5749672b9",
+    "tags": [
+      "Prarthana",
+      "HanumanChalisa",
+      "TulasiVivah"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2026-11-21-1597899453-am",
+    "at": "2026-11-21T01:00:00Z",
+    "app": "1597899453",
+    "lang": "en",
+    "event": "tulasi-vivah",
+    "text": "Today is Tulasi Vivah, the start of the wedding season.",
+    "tags": [
+      "Prarthana",
+      "HanumanChalisa",
+      "TulasiVivah"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2026-11-21-1597899453-pm",
+    "at": "2026-11-21T13:30:00Z",
+    "app": "1597899453",
+    "lang": "en",
+    "event": "tulasi-vivah",
+    "image": "images/greetings/tulasi-vivah.jpg",
+    "text": "Happy Tulasi Vivah. Read the vivah puja and chant the Hare Krishna Mahamantra in Prarthana.",
+    "tags": [
+      "Prarthana",
+      "HanumanChalisa",
+      "TulasiVivah"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2026-11-22-1597899453-am",
+    "at": "2026-11-22T01:00:00Z",
+    "app": "1597899453",
+    "lang": "gu",
+    "event": null,
+    "text": "સવારની શરૂઆત હનુમાન ચાલીસાથી કરો. પ્રાર્થનામાં દરેક શ્લોકનો અર્થ પણ મળે છે.",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2026-11-22-1597899453-pm",
+    "at": "2026-11-22T13:30:00Z",
+    "app": "1597899453",
+    "lang": "en",
+    "event": "tulasi-vivah",
+    "image": "images/screens/1597899453/tulasi-vivah-04.jpg",
+    "text": "Prarthana keeps the festival calendar for the rest of 2026 and 2027, with no ads.",
+    "ppid": "5f9dbde0-80cd-4235-b5a7-5da5749672b9",
+    "tags": [
+      "Prarthana",
+      "HanumanChalisa",
+      "TulasiVivah"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2026-11-23-1597899453-am",
+    "at": "2026-11-23T01:00:00Z",
+    "app": "1597899453",
+    "lang": "en",
+    "event": null,
+    "text": "Good morning. What is your favorite aarti? Share it below.",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2026-11-23-1597899453-pm",
+    "at": "2026-11-23T13:30:00Z",
+    "app": "1597899453",
+    "lang": "en",
+    "event": null,
+    "image": "images/screens/1597899453/store-02.jpg",
+    "text": "Festival dates for 2026 and 2027 in one calendar, with a reminder before the day.",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2026-11-24-1597899453-am",
+    "at": "2026-11-24T01:00:00Z",
+    "app": "1597899453",
+    "lang": "hi",
+    "event": null,
+    "text": "नाश्ते से पहले एक माला फेरें: 108 मनके, हर गिनती पर हल्का स्पर्श।",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2026-11-24-1597899453-pm",
+    "at": "2026-11-24T13:30:00Z",
+    "app": "1597899453",
+    "lang": "hi",
+    "event": null,
+    "image": "images/screens/1597899453/hindi-prayers-01.jpg",
+    "text": "हनुमान चालीसा, आरती और 50 पवित्र पाठ हिंदी में पढ़ें, ऑडियो के साथ। कोई विज्ञापन नहीं।",
+    "ppid": "be1c782d-7eb5-4194-b3d4-9ad535a54679",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2026-11-25-1597899453-am",
+    "at": "2026-11-25T01:00:00Z",
+    "app": "1597899453",
+    "lang": "en",
+    "event": null,
+    "text": "The Daily Wisdom widget puts a short thought on your Home Screen, so the first glance at your phone is a calm one.",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2026-11-25-1597899453-pm",
+    "at": "2026-11-25T13:30:00Z",
+    "app": "1597899453",
+    "lang": "en",
+    "event": null,
+    "image": "images/screens/1597899453/hanuman-chalisa-02.jpg",
+    "text": "Chalisa, Bajrang Baan and Aarti, with audio, in Prarthana.",
+    "ppid": "d868422f-7a69-41e1-940a-03fade65fa39",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2026-11-26-1597899453-am",
+    "at": "2026-11-26T01:00:00Z",
+    "app": "1597899453",
+    "lang": "gu",
+    "event": null,
+    "text": "નાસ્તા પહેલાં એક માળા ફેરવો: 108 મણકા, દરેક ગણતરી પર હળવો સ્પર્શ.",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2026-11-26-1597899453-pm",
+    "at": "2026-11-26T13:30:00Z",
+    "app": "1597899453",
+    "lang": "gu",
+    "event": null,
+    "image": "images/screens/1597899453/store-gu-02.jpg",
+    "text": "2026 અને 2027ના તહેવારોની તારીખો, દિવસ પહેલાં રિમાઇન્ડર સાથે.",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2026-11-27-1597899453-am",
+    "at": "2026-11-27T01:00:00Z",
+    "app": "1597899453",
+    "lang": "en",
+    "event": null,
+    "text": "Prarthana reads in Hindi, English or Gujarati. Which do you prefer in the morning?",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2026-11-27-1597899453-pm",
+    "at": "2026-11-27T13:30:00Z",
+    "app": "1597899453",
+    "lang": "en",
+    "event": null,
+    "image": "images/screens/1597899453/festival-calendar-02.jpg",
+    "text": "Ekadashi, Purnima, Amavasya and the monthly vrat days, all in one calendar.",
+    "ppid": "8ad5a98a-aa91-4136-8be0-38866bbe6f66",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2026-11-28-1597899453-am",
+    "at": "2026-11-28T01:00:00Z",
+    "app": "1597899453",
+    "lang": "hi",
+    "event": null,
+    "text": "शुभ प्रभात। आपकी पसंदीदा आरती कौन सी है? नीचे लिखिए।",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2026-11-28-1597899453-pm",
+    "at": "2026-11-28T13:30:00Z",
+    "app": "1597899453",
+    "lang": "hi",
+    "event": null,
+    "image": "images/screens/1597899453/store-hi-02.jpg",
+    "text": "2026 और 2027 के त्योहारों की तिथियाँ, दिन से पहले रिमाइंडर के साथ।",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2026-11-29-1597899453-am",
+    "at": "2026-11-29T01:00:00Z",
+    "app": "1597899453",
+    "lang": "gu",
+    "event": null,
+    "text": "શુભ સવાર. તમારી મનપસંદ આરતી કઈ? નીચે લખો.",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2026-11-29-1597899453-pm",
+    "at": "2026-11-29T13:30:00Z",
+    "app": "1597899453",
+    "lang": "gu",
+    "event": null,
+    "image": "images/screens/1597899453/gujarati-prayers-02.jpg",
+    "text": "ચાલીસા, બજરંગ બાણ અને આરતી, અર્થ અને ઑડિયો સાથે.",
+    "ppid": "1cf67593-479d-412b-9ab4-4ab35ea48dc9",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2026-11-30-1597899453-am",
+    "at": "2026-11-30T01:00:00Z",
+    "app": "1597899453",
+    "lang": "en",
+    "event": null,
+    "text": "The Chalisa begins: Shri Guru charan saroj raj, nij man mukuru sudhari. Read it with its meaning in Prarthana.",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2026-11-30-1597899453-pm",
+    "at": "2026-11-30T13:30:00Z",
+    "app": "1597899453",
+    "lang": "en",
+    "event": null,
+    "image": "images/screens/1597899453/store-03.jpg",
+    "text": "A 108-bead jaap mala that you count with a tap, and a gentle feel on every bead.",
+    "status": "draft"
+  }
+]

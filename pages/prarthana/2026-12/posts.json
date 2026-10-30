@@ -1,0 +1,635 @@
+[
+  {
+    "id": "prarthana-2026-12-01-1597899453-am",
+    "at": "2026-12-01T01:00:00Z",
+    "app": "1597899453",
+    "lang": "hi",
+    "event": null,
+    "text": "रोज़ का एक विचार आपकी होम स्क्रीन पर, ताकि फ़ोन खोलते ही मन शांत हो।",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2026-12-01-1597899453-pm",
+    "at": "2026-12-01T13:30:00Z",
+    "app": "1597899453",
+    "lang": "hi",
+    "event": null,
+    "image": "images/screens/1597899453/hindi-prayers-02.jpg",
+    "text": "चालीसा, बजरंग बाण और आरती, अर्थ और ऑडियो के साथ।",
+    "ppid": "be1c782d-7eb5-4194-b3d4-9ad535a54679",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2026-12-02-1597899453-am",
+    "at": "2026-12-02T01:00:00Z",
+    "app": "1597899453",
+    "lang": "en",
+    "event": null,
+    "text": "No ads, no subscriptions, just a calm space for daily prayer. Good morning from Prarthana.",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2026-12-02-1597899453-pm",
+    "at": "2026-12-02T13:30:00Z",
+    "app": "1597899453",
+    "lang": "en",
+    "event": null,
+    "image": "images/screens/1597899453/hanuman-chalisa-03.jpg",
+    "text": "Turn on a reminder and Prarthana tells you before the festival.",
+    "ppid": "d868422f-7a69-41e1-940a-03fade65fa39",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2026-12-03-1597899453-am",
+    "at": "2026-12-03T01:00:00Z",
+    "app": "1597899453",
+    "lang": "gu",
+    "event": null,
+    "text": "રોજનો એક વિચાર તમારી હોમ સ્ક્રીન પર, જેથી ફોન ખોલતાં જ મન શાંત થાય.",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2026-12-03-1597899453-pm",
+    "at": "2026-12-03T13:30:00Z",
+    "app": "1597899453",
+    "lang": "gu",
+    "event": null,
+    "image": "images/screens/1597899453/store-gu-03.jpg",
+    "text": "108 મણકાની જાપ માળા, દરેક ગણતરી પર હળવો સ્પર્શ. ટૅપ કરીને ગણો.",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2026-12-04-1597899453-am",
+    "at": "2026-12-04T01:00:00Z",
+    "app": "1597899453",
+    "lang": "en",
+    "event": null,
+    "text": "A daily practice is easier with a streak. The jaap mala counts your days in a row.",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2026-12-04-1597899453-pm",
+    "at": "2026-12-04T13:30:00Z",
+    "app": "1597899453",
+    "lang": "en",
+    "event": null,
+    "image": "images/screens/1597899453/festival-calendar-03.jpg",
+    "text": "Open any festival page to read about it and set a reminder.",
+    "ppid": "8ad5a98a-aa91-4136-8be0-38866bbe6f66",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2026-12-05-1597899453-am",
+    "at": "2026-12-05T01:00:00Z",
+    "app": "1597899453",
+    "lang": "hi",
+    "event": null,
+    "text": "प्रार्थना हिंदी, अंग्रेज़ी और गुजराती में पढ़ी जा सकती है। सुबह आप कौन सी भाषा चुनते हैं?",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2026-12-05-1597899453-pm",
+    "at": "2026-12-05T13:30:00Z",
+    "app": "1597899453",
+    "lang": "hi",
+    "event": null,
+    "image": "images/screens/1597899453/store-hi-03.jpg",
+    "text": "108 मनकों की जाप माला, हर गिनती पर हल्का स्पर्श। टैप करके गिनें।",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2026-12-06-1597899453-am",
+    "at": "2026-12-06T01:00:00Z",
+    "app": "1597899453",
+    "lang": "gu",
+    "event": null,
+    "text": "પ્રાર્થના હિન્દી, અંગ્રેજી અને ગુજરાતીમાં વાંચી શકાય છે. સવારે તમે કઈ ભાષા પસંદ કરો છો?",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2026-12-06-1597899453-pm",
+    "at": "2026-12-06T13:30:00Z",
+    "app": "1597899453",
+    "lang": "gu",
+    "event": null,
+    "image": "images/screens/1597899453/gujarati-prayers-03.jpg",
+    "text": "તહેવારો અને વ્રતની તારીખો, અને દિવસ પહેલાં રિમાઇન્ડર.",
+    "ppid": "1cf67593-479d-412b-9ab4-4ab35ea48dc9",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2026-12-07-1597899453-am",
+    "at": "2026-12-07T01:00:00Z",
+    "app": "1597899453",
+    "lang": "en",
+    "event": null,
+    "text": "How long is your morning prayer? A few minutes is a good way to begin.",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2026-12-07-1597899453-pm",
+    "at": "2026-12-07T13:30:00Z",
+    "app": "1597899453",
+    "lang": "en",
+    "event": null,
+    "image": "images/screens/1597899453/store-04.jpg",
+    "text": "Read the Hanuman Chalisa with the meaning of each verse beside it.",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2026-12-08-1597899453-am",
+    "at": "2026-12-08T01:00:00Z",
+    "app": "1597899453",
+    "lang": "hi",
+    "event": null,
+    "text": "कोई विज्ञापन नहीं, कोई सदस्यता नहीं। रोज़ की प्रार्थना के लिए एक शांत जगह। शुभ प्रभात।",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2026-12-08-1597899453-pm",
+    "at": "2026-12-08T13:30:00Z",
+    "app": "1597899453",
+    "lang": "hi",
+    "event": null,
+    "image": "images/screens/1597899453/hindi-prayers-03.jpg",
+    "text": "त्योहारों और व्रत की तिथियाँ, और दिन से पहले रिमाइंडर।",
+    "ppid": "be1c782d-7eb5-4194-b3d4-9ad535a54679",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2026-12-09-1597899453-am",
+    "at": "2026-12-09T01:00:00Z",
+    "app": "1597899453",
+    "lang": "en",
+    "event": null,
+    "text": "Good morning. Gratitude is a good first prayer.",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2026-12-09-1597899453-pm",
+    "at": "2026-12-09T13:30:00Z",
+    "app": "1597899453",
+    "lang": "en",
+    "event": null,
+    "image": "images/screens/1597899453/hanuman-chalisa-04.jpg",
+    "text": "No ads and no subscriptions. Prarthana is a calm space for daily prayer.",
+    "ppid": "d868422f-7a69-41e1-940a-03fade65fa39",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2026-12-10-1597899453-am",
+    "at": "2026-12-10T01:00:00Z",
+    "app": "1597899453",
+    "lang": "gu",
+    "event": null,
+    "text": "કોઈ જાહેરાત નહીં, કોઈ સબસ્ક્રિપ્શન નહીં. રોજની પ્રાર્થના માટે એક શાંત જગ્યા. શુભ સવાર.",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2026-12-10-1597899453-pm",
+    "at": "2026-12-10T13:30:00Z",
+    "app": "1597899453",
+    "lang": "gu",
+    "event": null,
+    "image": "images/screens/1597899453/store-gu-04.jpg",
+    "text": "જે વાંચો છો તે સમજો પણ. પ્રાર્થના ચાલીસાનો અર્થ દરેક શ્લોક સાથે બતાવે છે.",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2026-12-11-1597899453-am",
+    "at": "2026-12-11T01:00:00Z",
+    "app": "1597899453",
+    "lang": "en",
+    "event": null,
+    "text": "Wearing an Apple Watch? You can carry on your jaap count on your wrist.",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2026-12-11-1597899453-pm",
+    "at": "2026-12-11T13:30:00Z",
+    "app": "1597899453",
+    "lang": "en",
+    "event": null,
+    "image": "images/screens/1597899453/festival-calendar-04.jpg",
+    "text": "Prayers and the festival calendar together, in one app with no ads.",
+    "ppid": "8ad5a98a-aa91-4136-8be0-38866bbe6f66",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2026-12-12-1597899453-am",
+    "at": "2026-12-12T01:00:00Z",
+    "app": "1597899453",
+    "lang": "hi",
+    "event": null,
+    "text": "नियम बनाना आसान होता है जब दिन गिने जाएँ। जाप माला लगातार दिनों की गिनती रखती है।",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2026-12-12-1597899453-pm",
+    "at": "2026-12-12T13:30:00Z",
+    "app": "1597899453",
+    "lang": "hi",
+    "event": null,
+    "image": "images/screens/1597899453/store-hi-04.jpg",
+    "text": "जो पढ़ते हैं, उसे समझें भी। प्रार्थना चालीसा का अर्थ हर पद के साथ दिखाती है।",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2026-12-13-1597899453-am",
+    "at": "2026-12-13T01:00:00Z",
+    "app": "1597899453",
+    "lang": "gu",
+    "event": null,
+    "text": "નિયમ બનાવવો સહેલો બને છે જ્યારે દિવસો ગણાય. જાપ માળા સતત દિવસોની ગણતરી રાખે છે.",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2026-12-13-1597899453-pm",
+    "at": "2026-12-13T13:30:00Z",
+    "app": "1597899453",
+    "lang": "gu",
+    "event": null,
+    "image": "images/screens/1597899453/gujarati-prayers-04.jpg",
+    "text": "હિન્દી, અંગ્રેજી કે ગુજરાતી, જેમ તમને ગમે. કોઈ જાહેરાત નહીં.",
+    "ppid": "1cf67593-479d-412b-9ab4-4ab35ea48dc9",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2026-12-14-1597899453-am",
+    "at": "2026-12-14T01:00:00Z",
+    "app": "1597899453",
+    "lang": "en",
+    "event": null,
+    "text": "Prarthana has 50 sacred texts, many with the meaning of every verse. Which one will you read today?",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2026-12-14-1597899453-pm",
+    "at": "2026-12-14T13:30:00Z",
+    "app": "1597899453",
+    "lang": "en",
+    "event": null,
+    "image": "images/screens/1597899453/store-05.jpg",
+    "text": "Open Prarthana and pick up where you left off, with a short thought for the day above.",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2026-12-15-1597899453-am",
+    "at": "2026-12-15T01:00:00Z",
+    "app": "1597899453",
+    "lang": "hi",
+    "event": null,
+    "text": "आपकी सुबह की प्रार्थना कितनी देर की होती है? कुछ मिनट भी शुरुआत के लिए अच्छे हैं।",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2026-12-15-1597899453-pm",
+    "at": "2026-12-15T13:30:00Z",
+    "app": "1597899453",
+    "lang": "hi",
+    "event": null,
+    "image": "images/screens/1597899453/hindi-prayers-04.jpg",
+    "text": "हिंदी, अंग्रेज़ी या गुजराती, जैसे आप चाहें। कोई विज्ञापन नहीं।",
+    "ppid": "be1c782d-7eb5-4194-b3d4-9ad535a54679",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2026-12-16-1597899453-am",
+    "at": "2026-12-16T01:00:00Z",
+    "app": "1597899453",
+    "lang": "en",
+    "event": null,
+    "text": "Do you pray with the meaning or with the sound? Prarthana offers both: verse meanings and devotional audio.",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2026-12-16-1597899453-pm",
+    "at": "2026-12-16T13:30:00Z",
+    "app": "1597899453",
+    "lang": "en",
+    "event": "gita-jayanti",
+    "image": "images/screens/1597899453/gita-jayanti-01.jpg",
+    "text": "Gita Jayanti is on 20 December. Read the Krishna Chalisa and Achyutam Keshavam in Prarthana, and set a reminder.",
+    "ppid": "e35e740a-25c2-472f-a146-3cc27af4a9a0",
+    "tags": [
+      "Prarthana",
+      "HanumanChalisa",
+      "GitaJayanti"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2026-12-17-1597899453-am",
+    "at": "2026-12-17T01:00:00Z",
+    "app": "1597899453",
+    "lang": "gu",
+    "event": null,
+    "text": "તમારી સવારની પ્રાર્થના કેટલી લાંબી હોય છે? થોડી મિનિટો પણ શરૂઆત માટે સારી છે.",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2026-12-17-1597899453-pm",
+    "at": "2026-12-17T13:30:00Z",
+    "app": "1597899453",
+    "lang": "gu",
+    "event": null,
+    "image": "images/screens/1597899453/store-gu-05.jpg",
+    "text": "પ્રાર્થના ખોલતાં જ તમારો અભ્યાસ ત્યાંથી શરૂ થાય જ્યાં તમે છોડ્યો હતો, સાથે આજનો એક વિચાર.",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2026-12-18-1597899453-am",
+    "at": "2026-12-18T01:00:00Z",
+    "app": "1597899453",
+    "lang": "en",
+    "event": null,
+    "text": "Morning reading list: the Hanuman Chalisa, then the Aarti. Both are in Prarthana.",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2026-12-18-1597899453-pm",
+    "at": "2026-12-18T13:30:00Z",
+    "app": "1597899453",
+    "lang": "en",
+    "event": "gita-jayanti",
+    "image": "images/screens/1597899453/gita-jayanti-02.jpg",
+    "text": "A reminder for the day: set it for Gita Jayanti on 20 December.",
+    "ppid": "e35e740a-25c2-472f-a146-3cc27af4a9a0",
+    "tags": [
+      "Prarthana",
+      "HanumanChalisa",
+      "GitaJayanti"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2026-12-19-1597899453-am",
+    "at": "2026-12-19T01:00:00Z",
+    "app": "1597899453",
+    "lang": "hi",
+    "event": null,
+    "text": "शुभ प्रभात। कृतज्ञता भी एक सुंदर पहली प्रार्थना है।",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2026-12-19-1597899453-pm",
+    "at": "2026-12-19T13:30:00Z",
+    "app": "1597899453",
+    "lang": "en",
+    "event": "gita-jayanti",
+    "image": "images/screens/1597899453/gita-jayanti-03.jpg",
+    "text": "Gita Jayanti is tomorrow. Read prayers with their meanings, verse by verse.",
+    "ppid": "e35e740a-25c2-472f-a146-3cc27af4a9a0",
+    "tags": [
+      "Prarthana",
+      "HanumanChalisa",
+      "GitaJayanti"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2026-12-20-1597899453-am",
+    "at": "2026-12-20T01:00:00Z",
+    "app": "1597899453",
+    "lang": "en",
+    "event": "gita-jayanti",
+    "text": "Today is Gita Jayanti. Read the Krishna Chalisa and Achyutam Keshavam in Prarthana.",
+    "tags": [
+      "Prarthana",
+      "HanumanChalisa",
+      "GitaJayanti"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2026-12-20-1597899453-pm",
+    "at": "2026-12-20T13:30:00Z",
+    "app": "1597899453",
+    "lang": "en",
+    "event": "gita-jayanti",
+    "image": "images/greetings/gita-jayanti.jpg",
+    "text": "Happy Gita Jayanti. Read the Krishna Chalisa and Achyutam Keshavam in Prarthana.",
+    "tags": [
+      "Prarthana",
+      "HanumanChalisa",
+      "GitaJayanti"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2026-12-21-1597899453-am",
+    "at": "2026-12-21T01:00:00Z",
+    "app": "1597899453",
+    "lang": "en",
+    "event": null,
+    "text": "The Next Festival widget shows the days to the next festival on your Home Screen or Lock Screen.",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2026-12-21-1597899453-pm",
+    "at": "2026-12-21T13:30:00Z",
+    "app": "1597899453",
+    "lang": "en",
+    "event": "gita-jayanti",
+    "image": "images/screens/1597899453/gita-jayanti-04.jpg",
+    "text": "The festival calendar goes on. Prarthana has no ads, and it works offline once the app has loaded.",
+    "ppid": "e35e740a-25c2-472f-a146-3cc27af4a9a0",
+    "tags": [
+      "Prarthana",
+      "HanumanChalisa",
+      "GitaJayanti"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2026-12-22-1597899453-am",
+    "at": "2026-12-22T01:00:00Z",
+    "app": "1597899453",
+    "lang": "hi",
+    "event": null,
+    "text": "Apple Watch है? अपनी जाप गिनती कलाई पर भी जारी रखें।",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2026-12-22-1597899453-pm",
+    "at": "2026-12-22T13:30:00Z",
+    "app": "1597899453",
+    "lang": "hi",
+    "event": null,
+    "image": "images/screens/1597899453/store-hi-05.jpg",
+    "text": "प्रार्थना खोलते ही आपका अभ्यास वहीं मिलता है जहाँ आपने छोड़ा था, साथ में आज का एक विचार।",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2026-12-23-1597899453-am",
+    "at": "2026-12-23T01:00:00Z",
+    "app": "1597899453",
+    "lang": "en",
+    "event": null,
+    "text": "Light a lamp, open a prayer, take a breath. Good morning.",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2026-12-23-1597899453-pm",
+    "at": "2026-12-23T13:30:00Z",
+    "app": "1597899453",
+    "lang": "en",
+    "event": null,
+    "image": "images/screens/1597899453/store-06.jpg",
+    "text": "Prayers for Hanuman, Shiva, Durga, Krishna, Ganesh and Lakshmi, and a Daily Prayers section.",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2026-12-24-1597899453-am",
+    "at": "2026-12-24T01:00:00Z",
+    "app": "1597899453",
+    "lang": "gu",
+    "event": null,
+    "text": "શુભ સવાર. કૃતજ્ઞતા પણ એક સુંદર પહેલી પ્રાર્થના છે.",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2026-12-24-1597899453-pm",
+    "at": "2026-12-24T13:30:00Z",
+    "app": "1597899453",
+    "lang": "gu",
+    "event": null,
+    "image": "images/screens/1597899453/store-gu-06.jpg",
+    "text": "હનુમાન, શિવ, દુર્ગા, કૃષ્ણ, ગણેશ અને લક્ષ્મીની પ્રાર્થનાઓ, અને દૈનિક પ્રાર્થનાનો અલગ વિભાગ.",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2026-12-25-1597899453-am",
+    "at": "2026-12-25T01:00:00Z",
+    "app": "1597899453",
+    "lang": "en",
+    "event": null,
+    "text": "Ekadashi, Purnima and Amavasya dates are all in the festival calendar. Do you keep a monthly vrat?",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2026-12-25-1597899453-pm",
+    "at": "2026-12-25T13:30:00Z",
+    "app": "1597899453",
+    "lang": "en",
+    "event": null,
+    "image": "images/screens/1597899453/store-07.jpg",
+    "text": "Read in Hindi, English or Gujarati. Choose your language and pray in it.",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2026-12-26-1597899453-am",
+    "at": "2026-12-26T01:00:00Z",
+    "app": "1597899453",
+    "lang": "hi",
+    "event": null,
+    "text": "प्रार्थना में 50 पवित्र पाठ हैं, कई के हर पद का अर्थ भी। आज कौन सा पढ़ेंगे?",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2026-12-26-1597899453-pm",
+    "at": "2026-12-26T13:30:00Z",
+    "app": "1597899453",
+    "lang": "hi",
+    "event": null,
+    "image": "images/screens/1597899453/store-hi-06.jpg",
+    "text": "हनुमान, शिव, दुर्गा, कृष्ण, गणेश और लक्ष्मी की प्रार्थनाएँ, और दैनिक प्रार्थना का अलग खंड।",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2026-12-27-1597899453-am",
+    "at": "2026-12-27T01:00:00Z",
+    "app": "1597899453",
+    "lang": "gu",
+    "event": null,
+    "text": "Apple Watch છે? તમારી જાપ ગણતરી કાંડે પણ ચાલુ રાખો.",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2026-12-27-1597899453-pm",
+    "at": "2026-12-27T13:30:00Z",
+    "app": "1597899453",
+    "lang": "gu",
+    "event": null,
+    "image": "images/screens/1597899453/store-gu-07.jpg",
+    "text": "હિન્દી, અંગ્રેજી કે ગુજરાતીમાં વાંચો. ભાષા પસંદ કરો અને તેમાં પ્રાર્થના કરો.",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2026-12-28-1597899453-am",
+    "at": "2026-12-28T01:00:00Z",
+    "app": "1597899453",
+    "lang": "en",
+    "event": null,
+    "text": "Gayatri Mantra, Shiv Chalisa, Durga Saptashati and many more are in Prarthana. Which one is yours?",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2026-12-28-1597899453-pm",
+    "at": "2026-12-28T13:30:00Z",
+    "app": "1597899453",
+    "lang": "en",
+    "event": null,
+    "image": "images/screens/1597899453/store-08.jpg",
+    "text": "Carry on counting your jaap on Apple Watch.",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2026-12-29-1597899453-am",
+    "at": "2026-12-29T01:00:00Z",
+    "app": "1597899453",
+    "lang": "hi",
+    "event": null,
+    "text": "सुबह का पाठ: पहले हनुमान चालीसा, फिर आरती। दोनों प्रार्थना में हैं।",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2026-12-29-1597899453-pm",
+    "at": "2026-12-29T13:30:00Z",
+    "app": "1597899453",
+    "lang": "hi",
+    "event": null,
+    "image": "images/screens/1597899453/store-hi-07.jpg",
+    "text": "हिंदी, अंग्रेज़ी या गुजराती में पढ़ें। भाषा चुनें और उसी में प्रार्थना करें।",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2026-12-30-1597899453-am",
+    "at": "2026-12-30T01:00:00Z",
+    "app": "1597899453",
+    "lang": "en",
+    "event": null,
+    "text": "Jaap Today is a widget with a big bead button. On iOS 17 and later it counts a bead without opening the app.",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2026-12-30-1597899453-pm",
+    "at": "2026-12-30T13:30:00Z",
+    "app": "1597899453",
+    "lang": "en",
+    "event": null,
+    "image": "images/screens/1597899453/hanuman-chalisa-02.jpg",
+    "text": "Over thirty texts for Hanuman devotees, including the Chalisa, Bajrang Baan and the Aarti.",
+    "ppid": "d868422f-7a69-41e1-940a-03fade65fa39",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2026-12-31-1597899453-am",
+    "at": "2026-12-31T01:00:00Z",
+    "app": "1597899453",
+    "lang": "gu",
+    "event": null,
+    "text": "પ્રાર્થનામાં 50 પવિત્ર પાઠ છે, ઘણાના દરેક શ્લોકનો અર્થ પણ. આજે કયો વાંચશો?",
+    "status": "draft"
+  },
+  {
+    "id": "prarthana-2026-12-31-1597899453-pm",
+    "at": "2026-12-31T13:30:00Z",
+    "app": "1597899453",
+    "lang": "gu",
+    "event": null,
+    "image": "images/screens/1597899453/store-gu-08.jpg",
+    "text": "તમારો જાપ Apple Watch પર પણ ગણતા રહો.",
+    "status": "draft"
+  }
+]

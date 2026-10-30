@@ -1,0 +1,493 @@
+[
+  {
+    "id": "kids-2027-01-01-1597789030",
+    "at": "2027-01-01T03:30:00Z",
+    "app": "1597789030",
+    "lang": "en",
+    "event": null,
+    "image": "images/screens/1597789030/play-time-for-parents-01.jpg",
+    "text": "No sign-in, no ads, and play time that parents control.",
+    "ppid": "304b8cb5-816e-4c68-ae0b-ae87bab70121",
+    "status": "draft"
+  },
+  {
+    "id": "kids-2027-01-01-1597421237",
+    "at": "2027-01-01T07:30:00Z",
+    "app": "1597421237",
+    "lang": "en",
+    "event": "new-year",
+    "image": "images/greetings/new-year.jpg",
+    "text": "Happy New Year. Start the year with picture cards that talk: letters, numbers, shapes and first words.",
+    "tags": [
+      "ABCLearning",
+      "EarlyLearning",
+      "NewYear"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "kids-2027-01-01-1547752865",
+    "at": "2027-01-01T12:30:00Z",
+    "app": "1547752865",
+    "lang": "en",
+    "event": "january-challenge",
+    "image": "images/screens/1547752865/30-day-challenge-02.jpg",
+    "text": "Day one of the 30-day drawing challenge: tap for today's idea and sketch it. Ideas need Apple Intelligence.",
+    "ppid": "14fa167e-7836-4070-aaf6-53c5541ef1df",
+    "tags": [
+      "DrawingPad",
+      "Sketch",
+      "30DayChallenge"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "kids-2027-01-02-1597789030",
+    "at": "2027-01-02T03:30:00Z",
+    "app": "1597789030",
+    "lang": "en",
+    "event": null,
+    "image": "images/screens/1597789030/tap-to-fill-04.jpg",
+    "text": "Set the play time once and let them color. Settings stay behind a grown-up check.",
+    "ppid": "b63ee8a1-9b6c-488e-813c-015fc98369cd",
+    "status": "draft"
+  },
+  {
+    "id": "kids-2027-01-02-1597421237",
+    "at": "2027-01-02T07:30:00Z",
+    "app": "1597421237",
+    "lang": "en",
+    "event": null,
+    "image": "images/screens/1597421237/first-words-01.jpg",
+    "text": "Clear audio matters when a child is learning a new word. Every card in ABC Learning is spoken.",
+    "ppid": "55f9c7ad-0af8-44e3-ad33-d19a4a1d8efb",
+    "status": "draft"
+  },
+  {
+    "id": "kids-2027-01-02-1547752865",
+    "at": "2027-01-02T12:30:00Z",
+    "app": "1547752865",
+    "lang": "en",
+    "event": "january-challenge",
+    "image": "images/screens/1547752865/30-day-challenge-03.jpg",
+    "text": "Day two of the challenge. Every drawing you finish stays saved in your gallery.",
+    "ppid": "14fa167e-7836-4070-aaf6-53c5541ef1df",
+    "tags": [
+      "DrawingPad",
+      "Sketch",
+      "30DayChallenge"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "kids-2027-01-03-1597789030",
+    "at": "2027-01-03T03:30:00Z",
+    "app": "1597789030",
+    "lang": "en",
+    "event": null,
+    "image": "images/screens/1597789030/works-offline-04.jpg",
+    "text": "Pack the crayons you never need to sharpen. Colorful works offline.",
+    "ppid": "ef1ee7e1-845b-4cd1-8abe-8d91417a9694",
+    "status": "draft"
+  },
+  {
+    "id": "kids-2027-01-03-1597421237",
+    "at": "2027-01-03T07:30:00Z",
+    "app": "1597421237",
+    "lang": "en",
+    "event": null,
+    "image": "images/screens/1597421237/for-parents-04.jpg",
+    "text": "Learn a pack, then play a quiz about it. Calm practice for early learners.",
+    "ppid": "07710cd6-6dbd-4d8a-be0f-873e1816c02f",
+    "status": "draft"
+  },
+  {
+    "id": "kids-2027-01-03-1547752865",
+    "at": "2027-01-03T12:30:00Z",
+    "app": "1547752865",
+    "lang": "en",
+    "event": "january-challenge",
+    "image": "images/screens/1547752865/30-day-challenge-04.jpg",
+    "text": "Day three: make the idea your own. No ads while you draw.",
+    "ppid": "14fa167e-7836-4070-aaf6-53c5541ef1df",
+    "tags": [
+      "DrawingPad",
+      "Sketch",
+      "30DayChallenge"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "kids-2027-01-04-1597789030",
+    "at": "2027-01-04T03:30:00Z",
+    "app": "1597789030",
+    "lang": "en",
+    "event": null,
+    "image": "images/screens/1597789030/store-04.jpg",
+    "text": "A coloring book with a limit you choose. Play time is set by parents.",
+    "status": "draft"
+  },
+  {
+    "id": "kids-2027-01-04-1597421237",
+    "at": "2027-01-04T07:30:00Z",
+    "app": "1597421237",
+    "lang": "en",
+    "event": null,
+    "image": "images/screens/1597421237/numbers-and-shapes-04.jpg",
+    "text": "Learn it, then try it. A friendly picture quiz closes each topic.",
+    "ppid": "9b959636-2b8c-4069-b442-c0af0922198c",
+    "status": "draft"
+  },
+  {
+    "id": "kids-2027-01-04-1547752865",
+    "at": "2027-01-04T12:30:00Z",
+    "app": "1547752865",
+    "lang": "en",
+    "event": "january-challenge",
+    "image": "images/screens/1547752865/30-day-challenge-01.jpg",
+    "text": "Day four of the 30-day drawing challenge. One idea, one sketch. Keep going. Ideas need Apple Intelligence.",
+    "ppid": "14fa167e-7836-4070-aaf6-53c5541ef1df",
+    "tags": [
+      "DrawingPad",
+      "Sketch",
+      "30DayChallenge"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "kids-2027-01-05-1597789030",
+    "at": "2027-01-05T03:30:00Z",
+    "app": "1597789030",
+    "lang": "en",
+    "event": null,
+    "image": "images/screens/1597789030/eleven-worlds-01.jpg",
+    "text": "Eighty-eight pictures, eleven worlds, and a favorite for every child.",
+    "ppid": "7c006804-1afa-483d-b533-704aa82326fd",
+    "status": "draft"
+  },
+  {
+    "id": "kids-2027-01-05-1597421237",
+    "at": "2027-01-05T07:30:00Z",
+    "app": "1597421237",
+    "lang": "en",
+    "event": null,
+    "image": "images/screens/1597421237/picture-quiz-01.jpg",
+    "text": "A picture quiz that feels like a game. No scores, no pressure.",
+    "ppid": "db107add-fb66-4bcb-bcbd-0a8e83a2f922",
+    "status": "draft"
+  },
+  {
+    "id": "kids-2027-01-05-1547752865",
+    "at": "2027-01-05T12:30:00Z",
+    "app": "1547752865",
+    "lang": "en",
+    "event": "january-challenge",
+    "image": "images/screens/1547752865/30-day-challenge-02.jpg",
+    "text": "Day five. Tap for an idea, sketch it on the canvas. Ideas need Apple Intelligence.",
+    "ppid": "14fa167e-7836-4070-aaf6-53c5541ef1df",
+    "tags": [
+      "DrawingPad",
+      "Sketch",
+      "30DayChallenge"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "kids-2027-01-06-1597789030",
+    "at": "2027-01-06T03:30:00Z",
+    "app": "1597789030",
+    "lang": "en",
+    "event": null,
+    "image": "images/screens/1597789030/play-time-for-parents-02.jpg",
+    "text": "A quiet place to color: no ads, no accounts and no chat.",
+    "ppid": "304b8cb5-816e-4c68-ae0b-ae87bab70121",
+    "status": "draft"
+  },
+  {
+    "id": "kids-2027-01-06-1597421237",
+    "at": "2027-01-06T07:30:00Z",
+    "app": "1597421237",
+    "lang": "en",
+    "event": "new-year",
+    "image": "images/greetings/new-year.jpg",
+    "text": "A new year, new words. ABC Learning has five packs of letters, numbers, shapes and everyday words to start with.",
+    "tags": [
+      "ABCLearning",
+      "EarlyLearning",
+      "NewYear"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "kids-2027-01-06-1547752865",
+    "at": "2027-01-06T12:30:00Z",
+    "app": "1547752865",
+    "lang": "en",
+    "event": "january-challenge",
+    "image": "images/screens/1547752865/30-day-challenge-03.jpg",
+    "text": "Day six: look back through your gallery. The drawings add up.",
+    "ppid": "14fa167e-7836-4070-aaf6-53c5541ef1df",
+    "tags": [
+      "DrawingPad",
+      "Sketch",
+      "30DayChallenge"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "kids-2027-01-07-1597789030",
+    "at": "2027-01-07T03:30:00Z",
+    "app": "1597789030",
+    "lang": "en",
+    "event": null,
+    "image": "images/screens/1597789030/tap-to-fill-01.jpg",
+    "text": "One tap, one filled shape. Colorful keeps coloring simple, with no ads.",
+    "ppid": "b63ee8a1-9b6c-488e-813c-015fc98369cd",
+    "status": "draft"
+  },
+  {
+    "id": "kids-2027-01-07-1597421237",
+    "at": "2027-01-07T07:30:00Z",
+    "app": "1597421237",
+    "lang": "en",
+    "event": null,
+    "image": "images/screens/1597421237/store-04.jpg",
+    "text": "A learning app for the waiting room: save a pack and it works offline.",
+    "status": "draft"
+  },
+  {
+    "id": "kids-2027-01-07-1547752865",
+    "at": "2027-01-07T12:30:00Z",
+    "app": "1547752865",
+    "lang": "en",
+    "event": "january-challenge",
+    "image": "images/screens/1547752865/30-day-challenge-04.jpg",
+    "text": "Day seven of the challenge. Make it your own, with no ads while you draw.",
+    "ppid": "14fa167e-7836-4070-aaf6-53c5541ef1df",
+    "tags": [
+      "DrawingPad",
+      "Sketch",
+      "30DayChallenge"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "kids-2027-01-08-1597789030",
+    "at": "2027-01-08T03:30:00Z",
+    "app": "1597789030",
+    "lang": "en",
+    "event": null,
+    "image": "images/screens/1597789030/works-offline-01.jpg",
+    "text": "Long drive ahead? Open Colorful once at home, and the pages are ready without internet.",
+    "ppid": "ef1ee7e1-845b-4cd1-8abe-8d91417a9694",
+    "status": "draft"
+  },
+  {
+    "id": "kids-2027-01-08-1597421237",
+    "at": "2027-01-08T07:30:00Z",
+    "app": "1597421237",
+    "lang": "en",
+    "event": null,
+    "image": "images/screens/1597421237/alphabet-cards-04.jpg",
+    "text": "A learning app with no ads and no subscriptions, for letters, numbers and first words.",
+    "ppid": "9096cd71-4529-4f63-9ccb-3dfc87ee1b8f",
+    "status": "draft"
+  },
+  {
+    "id": "kids-2027-01-08-1547752865",
+    "at": "2027-01-08T12:30:00Z",
+    "app": "1547752865",
+    "lang": "en",
+    "event": "january-challenge",
+    "image": "images/screens/1547752865/30-day-challenge-01.jpg",
+    "text": "Day eight of the 30-day challenge. One idea and one sketch a day adds up. Ideas need Apple Intelligence.",
+    "ppid": "14fa167e-7836-4070-aaf6-53c5541ef1df",
+    "tags": [
+      "DrawingPad",
+      "Sketch",
+      "30DayChallenge"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "kids-2027-01-09-1597789030",
+    "at": "2027-01-09T03:30:00Z",
+    "app": "1597789030",
+    "lang": "en",
+    "event": null,
+    "image": "images/screens/1597789030/store-01.jpg",
+    "text": "From Space to Sports, Colorful has eleven worlds of pictures for small hands to fill with color.",
+    "status": "draft"
+  },
+  {
+    "id": "kids-2027-01-09-1597421237",
+    "at": "2027-01-09T07:30:00Z",
+    "app": "1597421237",
+    "lang": "en",
+    "event": null,
+    "image": "images/screens/1597421237/first-words-02.jpg",
+    "text": "Little ones learn by seeing and hearing at the same time, and ABC Learning does both on every card.",
+    "ppid": "55f9c7ad-0af8-44e3-ad33-d19a4a1d8efb",
+    "status": "draft"
+  },
+  {
+    "id": "kids-2027-01-09-1547752865",
+    "at": "2027-01-09T12:30:00Z",
+    "app": "1547752865",
+    "lang": "en",
+    "event": "january-challenge",
+    "image": "images/screens/1547752865/30-day-challenge-02.jpg",
+    "text": "Day nine of 30. Fresh idea, clean canvas. Ideas need Apple Intelligence.",
+    "ppid": "14fa167e-7836-4070-aaf6-53c5541ef1df",
+    "tags": [
+      "DrawingPad",
+      "Sketch",
+      "30DayChallenge"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "kids-2027-01-10-1597789030",
+    "at": "2027-01-10T03:30:00Z",
+    "app": "1597789030",
+    "lang": "en",
+    "event": null,
+    "image": "images/screens/1597789030/eleven-worlds-02.jpg",
+    "text": "Choose a world, then a page. The Space world has planets, rockets and a little astronaut.",
+    "ppid": "7c006804-1afa-483d-b533-704aa82326fd",
+    "status": "draft"
+  },
+  {
+    "id": "kids-2027-01-10-1597421237",
+    "at": "2027-01-10T07:30:00Z",
+    "app": "1597421237",
+    "lang": "en",
+    "event": null,
+    "image": "images/screens/1597421237/for-parents-01.jpg",
+    "text": "ABC Learning has no ads, no tracking and a parental gate on settings.",
+    "ppid": "07710cd6-6dbd-4d8a-be0f-873e1816c02f",
+    "status": "draft"
+  },
+  {
+    "id": "kids-2027-01-10-1547752865",
+    "at": "2027-01-10T12:30:00Z",
+    "app": "1547752865",
+    "lang": "en",
+    "event": "january-challenge",
+    "image": "images/screens/1547752865/30-day-challenge-03.jpg",
+    "text": "Day ten, a third of the way through 30. Your gallery keeps every sketch.",
+    "ppid": "14fa167e-7836-4070-aaf6-53c5541ef1df",
+    "tags": [
+      "DrawingPad",
+      "Sketch",
+      "30DayChallenge"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "kids-2027-01-11-1597789030",
+    "at": "2027-01-11T03:30:00Z",
+    "app": "1597789030",
+    "lang": "en",
+    "event": null,
+    "image": "images/screens/1597789030/tap-to-fill-02.jpg",
+    "text": "Eleven worlds, eighty-eight pictures and one simple rule: tap a shape to color it.",
+    "ppid": "b63ee8a1-9b6c-488e-813c-015fc98369cd",
+    "status": "draft"
+  },
+  {
+    "id": "kids-2027-01-11-1597421237",
+    "at": "2027-01-11T07:30:00Z",
+    "app": "1597421237",
+    "lang": "en",
+    "event": "new-year",
+    "image": "images/greetings/new-year.jpg",
+    "text": "January is a good month for a small habit. A few picture cards a day, and first words become a happy habit.",
+    "tags": [
+      "ABCLearning",
+      "EarlyLearning",
+      "NewYear"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "kids-2027-01-11-1547752865",
+    "at": "2027-01-11T12:30:00Z",
+    "app": "1547752865",
+    "lang": "en",
+    "event": "january-challenge",
+    "image": "images/screens/1547752865/30-day-challenge-04.jpg",
+    "text": "Day eleven. Keep the streak going: one idea, one sketch. No ads while you draw.",
+    "ppid": "14fa167e-7836-4070-aaf6-53c5541ef1df",
+    "tags": [
+      "DrawingPad",
+      "Sketch",
+      "30DayChallenge"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "kids-2027-01-12-1597789030",
+    "at": "2027-01-12T03:30:00Z",
+    "app": "1597789030",
+    "lang": "en",
+    "event": null,
+    "image": "images/screens/1597789030/works-offline-02.jpg",
+    "text": "Everything is on the device: the pages, the crayons and the drawings.",
+    "ppid": "ef1ee7e1-845b-4cd1-8abe-8d91417a9694",
+    "status": "draft"
+  },
+  {
+    "id": "kids-2027-01-12-1597421237",
+    "at": "2027-01-12T07:30:00Z",
+    "app": "1597421237",
+    "lang": "en",
+    "event": null,
+    "image": "images/screens/1597421237/numbers-and-shapes-01.jpg",
+    "text": "Packs by topic keep things simple. Numbers and shapes are two of them.",
+    "ppid": "9b959636-2b8c-4069-b442-c0af0922198c",
+    "status": "draft"
+  },
+  {
+    "id": "kids-2027-01-12-1547752865",
+    "at": "2027-01-12T12:30:00Z",
+    "app": "1547752865",
+    "lang": "en",
+    "event": null,
+    "image": "images/screens/1547752865/store-04.jpg",
+    "text": "Stuck on what to draw? Tap the idea button, read the steps and draw it your way. Ideas need Apple Intelligence.",
+    "status": "draft"
+  },
+  {
+    "id": "kids-2027-01-13-1597789030",
+    "at": "2027-01-13T03:30:00Z",
+    "app": "1597789030",
+    "lang": "en",
+    "event": null,
+    "image": "images/screens/1597789030/store-02.jpg",
+    "text": "No setup and no menus to learn. Little ones open Colorful, pick a page and start.",
+    "status": "draft"
+  },
+  {
+    "id": "kids-2027-01-13-1597421237",
+    "at": "2027-01-13T07:30:00Z",
+    "app": "1597421237",
+    "lang": "en",
+    "event": null,
+    "image": "images/screens/1597421237/picture-quiz-02.jpg",
+    "text": "Picture quiz time. Little ones pick the word that fits the picture.",
+    "ppid": "db107add-fb66-4bcb-bcbd-0a8e83a2f922",
+    "status": "draft"
+  },
+  {
+    "id": "kids-2027-01-13-1547752865",
+    "at": "2027-01-13T12:30:00Z",
+    "app": "1547752865",
+    "lang": "en",
+    "event": null,
+    "image": "images/screens/1547752865/brushes-and-colors-01.jpg",
+    "text": "Pens, pencils and paint brushes in the sizes you like.",
+    "ppid": "9cd591d9-bda0-4530-9a1f-fdfd0c13f951",
+    "status": "draft"
+  }
+]
