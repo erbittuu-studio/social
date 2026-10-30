@@ -33,7 +33,7 @@ The GitHub Action in `.github/workflows/post.yml` runs step 3 every week for the
 
 ## The key
 
-One key serves both Pages. It is the system-user key of the Meta app PES Social Poster (configuration PES Pages System). It lives only in the GitHub secret `FB_PAGES_TOKEN` and in the owner's `secrets` folder. If a key is ever shown in a chat, treat it as exposed and replace it.
+One key serves both Pages. It is the system-user key of the Meta app PES Social Poster (configuration PES Pages System). It lives only in the GitHub secret `FB_PAGES_TOKEN` and in the owner's `secrets` folder. How to create and store it: `docs/TOKEN.md`. If a key is ever shown in a chat, treat it as exposed and replace it.
 
 ## Publishing this repo
 

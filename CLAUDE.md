@@ -21,7 +21,7 @@ Facebook promotion for the studio: post texts, pictures, the schedule, the posti
 | Pictures: icons, headers, festival pictures, store pictures | `images/icons`, `images/headers`, `images/greetings`, `images/screens` |
 | Store pictures, event pictures, listings, event dates | `../faststore/data/` (read only from here) |
 | Scripts: schedule, plan, pictures | `scripts/post.mjs`, `scripts/plan.mjs`, `scripts/make-greetings.mjs`, `scripts/make-screens.mjs` |
-| Plan, hashtags, events, checks | `docs/PLAN.md`, `docs/HASHTAGS.md`, `docs/EVENTS.md`, `docs/VERIFY.md` |
+| Plan, hashtags, events, checks | `docs/PLAN.md`, `docs/HASHTAGS.md`, `docs/EVENTS.md`, `docs/VERIFY.md`, `docs/TOKEN.md` |
 | The weekly run | `.github/workflows/post.yml` |
 
 A fact is written in one place. Page names and ids are only in `config/pages.json`; hashtags only in `config/apps.json`; event dates only in faststore's `events.json`.

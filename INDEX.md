@@ -54,6 +54,7 @@ Store ids: Drawing Pad 1547752865, Colorful 1597789030, ABC Learning 1597421237,
 | `scripts/post.mjs` | Reads the month files and schedules the `ready` posts on Facebook |
 | `scripts/make-greetings.mjs` | Draws the six greeting pictures from the app icons |
 | `scripts/make-screens.mjs` | Converts the store and custom page pictures of `../faststore` into `images/screens` |
+| `scripts/export-review.mjs` | Writes the Hindi and Gujarati texts to `docs/REVIEW-hi-gu.md` |
 | `scripts/plan.mjs` | Builds the draft posts of both Pages from `content/` and `config/plan.json` |
 
 ## docs/ (decisions and plans)
@@ -63,6 +64,8 @@ Store ids: Drawing Pad 1547752865, Colorful 1597789030, ABC Learning 1597421237,
 | `docs/PLAN.md` | The promotion plan: audiences, rhythm, measuring |
 | `docs/HASHTAGS.md` | The hashtag and tagline research and the decisions |
 | `docs/EVENTS.md` | The festivals and events, which picture each one uses, and what is missing |
+| `docs/TOKEN.md` | How the Facebook key is created, stored as the GitHub secret and tested |
+| `docs/REVIEW-hi-gu.md` | Every Hindi and Gujarati draft text in a table for the native reader, made by `scripts/export-review.mjs` |
 | `docs/VERIFY.md` | What has been checked, what is open, and the festival dates found |
 
 ## Automation
