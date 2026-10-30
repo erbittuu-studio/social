@@ -1,0 +1,43 @@
+name: post
+
+on:
+  schedule:
+    - cron: "30 3 * * *"
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "send, check or dry"
+        default: dry
+
+permissions:
+  contents: write
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Run
+        env:
+          PAGE_TOKEN_KIDS: ${{ secrets.PAGE_TOKEN_KIDS }}
+          PAGE_TOKEN_PRARTHANA: ${{ secrets.PAGE_TOKEN_PRARTHANA }}
+          MODE: ${{ github.event_name == 'schedule' && 'send' || inputs.mode }}
+        run: |
+          case "$MODE" in
+            send) node post.mjs --send ;;
+            check) node post.mjs --check ;;
+            *) node post.mjs ;;
+          esac
+      - name: Save state
+        if: ${{ github.event_name == 'schedule' || inputs.mode == 'send' }}
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add state.json
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: record posted days"
+            git push
+          fi
